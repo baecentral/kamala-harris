@@ -1,2 +1,2 @@
-# moma-app
+# moma
 donation app
