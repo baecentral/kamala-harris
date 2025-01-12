@@ -1,5 +1,5 @@
 # moma
 Next.js Donation app
-Community Outreach Campaing Project
+Community Outreach Developer Intern Project
 
 
