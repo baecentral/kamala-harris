@@ -1,5 +1,6 @@
 # moma
-Next.js Donation app
+Next.js Presidential 
 Community Outreach Developer Intern Project
+
 
 
